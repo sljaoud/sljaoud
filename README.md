@@ -2,9 +2,7 @@ Hi, I’m Lisa Li
 
 Quantitative Risk Analytics | Python | Financial Mathematics
 
-I’m a London-based financial risk professional with an academic background in Mathematics, Physics and Financial Mathematics.
-
-My interests lie at the intersection of quantitative finance, financial risk management and programming. I enjoy applying mathematical and statistical techniques to analyse financial markets, understand portfolio risk and develop reproducible analytical tools.
+I’m a London-based financial risk professional with an academic background in Physics and Financial Mathematics.
 
 My work and independent projects focus on quantitative risk modelling, derivatives pricing, portfolio analytics, stress testing and model validation across asset classes.
 
